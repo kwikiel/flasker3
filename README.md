@@ -17,4 +17,26 @@ Technical constraints:
 - deployable on dokku
 - using sqlalchemy (learning how to do it properly)
 - no secrets in app (using ENVs)
-- d3 visualisation of dependencies 
+- d3 visualisation of dependencies
+- ux mockups for whole application before writing core logic
+- material design
+- fancy domain
+- landing page collecting emails (collecting 100+ before starting to write code)
+- 10 post blog about importance of todo lists
+- keyword research - 100 keywords 
+- database design
+- creating unit tests
+- creating UI tests
+- manual testing
+- beta testing with 5 users
+- fixing post launch bugs
+- user documentation
+- video marketing
+- payment integration
+- setting analytics (Mixpanel)
+- setting customer support (Intercom)
+- pre launch search engine optimization
+- initial social media
+- terms of service
+- privacy policy
+- one click deployment script (Ansible/Docker)
